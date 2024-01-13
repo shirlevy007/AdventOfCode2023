@@ -53,5 +53,5 @@ def num_to_sum(line, regexes):
 
 
 if __name__ == '__main__':
-    print(get_num())  # 59321
-    print(get_num_w_letters())  # 54676
+    print(get_num())
+    print(get_num_w_letters())

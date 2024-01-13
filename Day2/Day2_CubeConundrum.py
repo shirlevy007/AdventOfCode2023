@@ -66,7 +66,5 @@ def min_amounts_powers(text_file_title="Day2_CubeConundrum.txt"):
     return summ
 
 if __name__ == '__main__':
-    # print(valid_games("Day2_CubeConundrum2.txt"))   # 8
-    # print(valid_games())    # 2331
-    # print(min_amounts_powers("Day2_CubeConundrum2.txt"))    # 2286
-    print(min_amounts_powers())    # 71585
+    print(valid_games())
+    print(min_amounts_powers())
